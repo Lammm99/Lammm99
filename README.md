@@ -19,5 +19,5 @@
 
 I am also fairly active on Tryhackme and Hackthebox.
 
-<script src="https://tryhackme.com/badge/10598"></script>
+<!-- <script src="https://tryhackme.com/badge/10598"></script> -->
 [<img src="https://www.hackthebox.eu/badge/image/70948">](https://www.hackthebox.eu/home/users/profile/70948)
