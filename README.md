@@ -3,15 +3,17 @@
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white">](https://www.linkedin.com/in/zhenlam-wong/)
 
 ## whoami
-🎓 I'm a student, majoring in Cyber Security.
+🎓 A student, majoring in Cyber Security
 
-💻 Interested in anything IT-related.
+💻 Interested in anything IT-related
 
-👽 A proud member of [Monk On Mars](https://monkonmars.github.io/Monk-on-Mars/) CTF team. 
+👽 A proud member of [Monk On Mars](https://monkonmars.github.io/Monk-on-Mars/) CTF team 
 
-✍️ Would love to contribute to the open-source community. 
+✍️ Would love to contribute to the open-source community
 
-➡️ Pay it forward. 
+👯 Open for collaboration
+
+➡️ Pay it forward
 
 <!--
 **Lammm99/Lammm99** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
