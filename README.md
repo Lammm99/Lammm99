@@ -11,7 +11,7 @@
 
 ✍️ Would love to contribute to the open-source community
 
-👯 Open for collaboration
+🤝 Open for collaboration
 
 ➡️ Pay it forward
 
