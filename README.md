@@ -15,8 +15,6 @@
 
 ➡️ Pay it forward
 
-<br/><br/>
-
 I am also fairly active on Tryhackme and Hackthebox.
 
 <!-- <script src="https://tryhackme.com/badge/10598"></script> -->
