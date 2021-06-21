@@ -21,3 +21,6 @@ I am also fairly active on Tryhackme and Hackthebox.
 
 <!-- <script src="https://tryhackme.com/badge/10598"></script> -->
 [<img src="https://www.hackthebox.eu/badge/image/70948">](https://www.hackthebox.eu/home/users/profile/70948)
+
+## Stats
+[![Lammm99's GitHub stats](https://github-readme-stats.vercel.app/api?username=Lammm99&show_icons=true&theme=gotham)]
