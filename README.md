@@ -18,7 +18,7 @@
 I am also fairly active on Tryhackme and Hackthebox.
 
 <!-- <script src="https://tryhackme.com/badge/10598"></script> -->
-[<img src="https://tryhackme-badges.s3.amazonaws.com/lammm.png" alt="TryHackMe">](https://tryhackme.com/p/lammm)
+[<img src="https://github.com/Lammm99/Lammm99/blob/main/lammm.png">](https://tryhackme.com/p/lammm)
 [<img src="https://www.hackthebox.eu/badge/image/70948">](https://www.hackthebox.eu/home/users/profile/70948)
 
 ## Stats
